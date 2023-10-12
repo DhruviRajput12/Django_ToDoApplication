@@ -4,10 +4,6 @@
 
 A simple ToDo web application built with Django that allows you to manage your tasks. It provides features like adding, updating, and deleting tasks, and it uses DataTables for a clean, organized interface with a search function for tasks.
 
-## Demo
-
-You can try the app live at [Demo Link](https://your-demo-link.com).
-
 ## Features
 
 - Create, update, and delete tasks.
