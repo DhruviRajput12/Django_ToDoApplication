@@ -50,13 +50,27 @@ You can try the app live at [Demo Link](https://your-demo-link.com).
     You can now add, update, and delete tasks from the Task Page.
 
 
-Screenshots
-<h1> Home Page </h1>
+# Screenshots
+<h3> Home Page </h3>
+<div align="center">
+  <img src="https://github.com/DhruviRajput12/Django_ToDoApplication/blob/master/homepage.png" alt="homepage" />
+</div>
 
-<h1> Task Page <h1> 
+<h3> Task Page <h3> 
+<div align="center">
+  <img src="https://github.com/DhruviRajput12/Django_ToDoApplication/blob/master/taskpage.png" alt="taskpage" />
+</div>
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<h3> Update Task Page <h3> 
+<div align="center">
+  <img src="https://github.com/DhruviRajput12/Django_ToDoApplication/blob/master/updatetask.png" alt="updatetaskpage" />
+</div>
+
+<h3> Delete Task Page <h3> 
+<div align="center">
+  <img src="https://github.com/DhruviRajput12/Django_ToDoApplication/blob/master/deletetask.png" alt="deletetaskpage" />
+</div>
+
 
 
 
